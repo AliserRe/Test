@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ChatSystemUI.unity
+  isLoaded: 1
+  isActive: 1

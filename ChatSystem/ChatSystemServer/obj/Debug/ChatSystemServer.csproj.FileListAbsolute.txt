@@ -1,0 +1,6 @@
+F:\U3D Tutorials\Socket_ChatSystem\ChatSystem\ChatSystemServer\bin\Debug\ChatSystemServer.exe.config
+F:\U3D Tutorials\Socket_ChatSystem\ChatSystem\ChatSystemServer\bin\Debug\ChatSystemServer.exe
+F:\U3D Tutorials\Socket_ChatSystem\ChatSystem\ChatSystemServer\bin\Debug\ChatSystemServer.pdb
+F:\U3D Tutorials\Socket_ChatSystem\ChatSystem\ChatSystemServer\obj\Debug\ChatSystemServer.csprojResolveAssemblyReference.cache
+F:\U3D Tutorials\Socket_ChatSystem\ChatSystem\ChatSystemServer\obj\Debug\ChatSystemServer.exe
+F:\U3D Tutorials\Socket_ChatSystem\ChatSystem\ChatSystemServer\obj\Debug\ChatSystemServer.pdb

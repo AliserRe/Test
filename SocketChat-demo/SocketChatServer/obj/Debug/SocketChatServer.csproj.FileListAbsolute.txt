@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\SocketChatClient\SocketChatServer\bin\Debug\SocketChatServer.exe.config
+C:\Users\Administrator\Desktop\SocketChatClient\SocketChatServer\bin\Debug\SocketChatServer.exe
+C:\Users\Administrator\Desktop\SocketChatClient\SocketChatServer\bin\Debug\SocketChatServer.pdb
+C:\Users\Administrator\Desktop\SocketChatClient\SocketChatServer\obj\Debug\SocketChatServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SocketChatClient\SocketChatServer\obj\Debug\SocketChatServer.exe
+C:\Users\Administrator\Desktop\SocketChatClient\SocketChatServer\obj\Debug\SocketChatServer.pdb
